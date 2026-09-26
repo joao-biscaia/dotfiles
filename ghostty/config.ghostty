@@ -1,0 +1,6 @@
+font-size=16
+theme = Andromeda
+window-padding-x = 10
+window-padding-y = 10
+background-opacity = 1
+macos-titlebar-style = tabs
